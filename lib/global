@@ -1,0 +1,9 @@
+List<Map> MobileList = [
+{"name":"iphone 14pro","price":50000,"rate":4.5,},
+{"name":"samsung s23","price":45000,"rate":5.0},
+{"name":"samsung a54","price":25000,"rate":4.0},
+{"name":"iphone 11","price":30000,"rate":4.8},
+
+
+];
+
